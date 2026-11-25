@@ -1,8 +1,8 @@
-import Header from './components/Header';
-import Hero from './components/Hero';
-import Benefits from './components/Benefits';
-import LeadForm from './components/LeadForm';
-import Footer from './components/Footer';
+import Header from './components/header';
+import Hero from './components/hero';
+import Benefits from './components/benefits';
+import LeadForm from './components/leadForm';
+import Footer from './components/footer';
 
 export default function App() {
   return (
